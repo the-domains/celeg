@@ -1,0 +1,28 @@
+name: Celeg
+favicon: null
+layout_spectrum: 0.8749006665311754
+typography_spectrum: 0.08006495796144009
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.23269913299009204
+  lightness: 0.08608767995610833
+  saturation: 0.9102348545566201
+  rhythmicContrast: 0.7032718665432185
+purpose: []
