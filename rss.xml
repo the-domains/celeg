@@ -4,7 +4,7 @@
         <description><![CDATA[Celeg]]></description>
         <link>https://thegrid.ai/celeg/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Dec 2015 10:50:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Dec 2015 10:55:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/celeg/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Helping Barco with Scrum]]></title>
@@ -43,10 +43,10 @@
         </item>
         <item>
             <title><![CDATA[TagTagCity]]></title>
-            <description><![CDATA[<article><h1>TagTagCity</h1><p>MAY 2014 - PRESENT TagTagCity - Agile PM - CTO  TagTagCity is a small startup that has 2 products: a mobile web site generator (mobiloptim.com) and a native mobile app for municipalities (mobicities.be) In my role as Agile PM and CTO I define the roadmap for the product in collaboration with the company’s board of directors and I plan and follow up the work together with the team. I am also responsible for the technical decisions regarding the product. We use Scrum as a methodology and work in weekly sprints. From a technology perspective we use PHP and the Laravel framework and run both of our products on the Azure cloud.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f263fc4aed70281c2e93f46f083e48c4fae0f681.png"></article>]]></description>
-            <link>http://www.celeg.be/#about</link>
+            <description><![CDATA[<article><h1>TagTagCity</h1><p>April 2014 - APRIL 2015</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e4b41bbfa0b75a38b0d3d7806180472d45bea926.png"></article>]]></description>
+            <link>https://thegrid.ai/celeg/experience/index.html</link>
             <guid isPermaLink="false">6ab0d716-542a-4ef4-8482-cd6f3899114d</guid>
-            <pubDate>Wed, 23 Dec 2015 10:50:01 GMT</pubDate>
+            <pubDate>Wed, 23 Dec 2015 10:55:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
