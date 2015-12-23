@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Celeg]]></title>
         <description><![CDATA[Celeg]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/celeg/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Dec 2015 10:25:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 23 Dec 2015 10:25:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/celeg/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Working in software development since the year 2000 in a variety of different roles. Ever since the start of my career I have been in software development. I started as a functional analyst without any development background and then moved on to learn how to code in C#. Pretty early already I got bitten by the Agile way of doing projects. The first Agile project I did as a PM / Scrum Master (what's in a name) was back in 2006 and since then I have always been involved in Agile projects. Later on I also started coaching Agile teams that were making the transition from the traditional way of building software. Currently I am working as an Agile PM / CTO for a small startup. That is a pretty broad role. It involves defining the roadmap for the product, helping the team with the planning, but also helping the team with technical architecture choices and even writing some code in PHP.</p>]]></description>
+            <link>https://thegrid.ai/celeg/working-in-software-development-since-the-year-2000-in-a-var/index.html</link>
+            <guid isPermaLink="false">a3d1c3b0-8bef-4c03-90ae-9e8f6329b1fb</guid>
+            <pubDate>Wed, 23 Dec 2015 10:25:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>EMPLOYMENT MAY 2014 - PRESENT TAGTAGCITY Agile PM - CTO  TagTagCity is a small startup that has 2 products: a mobile web site generator (mobiloptim.com) and a native mobile app for municipalities (mobicities.be) In my role as Agile PM and CTO I define the roadmap for the product in collaboration with the company’s board of directors and I plan and follow up the work together with the team. I am also responsible for the technical decisions regarding the product. We use Scrum as a methodology and work in weekly sprints. From a technology perspective we use PHP and the Laravel framework and run both of our products on the Azure cloud.</p>]]></description>
-            <link>undefinedemployment-may-2014-present-tagtagcity-agile-pm-cto-tag/index.html</link>
+            <link>https://thegrid.ai/celeg/employment-may-2014-present-tagtagcity-agile-pm-cto-tag/index.html</link>
             <guid isPermaLink="false">6ab0d716-542a-4ef4-8482-cd6f3899114d</guid>
             <pubDate>Wed, 23 Dec 2015 10:24:58 GMT</pubDate>
         </item>
