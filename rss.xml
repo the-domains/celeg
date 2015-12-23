@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Celeg]]></title>
+        <description><![CDATA[Celeg]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 23 Dec 2015 10:25:07 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>EMPLOYMENT MAY 2014 - PRESENT TAGTAGCITY Agile PM - CTO  TagTagCity is a small startup that has 2 products: a mobile web site generator (mobiloptim.com) and a native mobile app for municipalities (mobicities.be) In my role as Agile PM and CTO I define the roadmap for the product in collaboration with the company’s board of directors and I plan and follow up the work together with the team. I am also responsible for the technical decisions regarding the product. We use Scrum as a methodology and work in weekly sprints. From a technology perspective we use PHP and the Laravel framework and run both of our products on the Azure cloud.</p>]]></description>
+            <link>undefinedemployment-may-2014-present-tagtagcity-agile-pm-cto-tag/index.html</link>
+            <guid isPermaLink="false">6ab0d716-542a-4ef4-8482-cd6f3899114d</guid>
+            <pubDate>Wed, 23 Dec 2015 10:24:58 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
