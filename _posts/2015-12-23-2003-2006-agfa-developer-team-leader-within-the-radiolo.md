@@ -1,18 +1,24 @@
 ---
 description: 2003 - 2006 AGFA Developer - Team leader  Within the radiology information systems product team my team was responsible for the reporting and speech modules. Re
+isBasedOnUrl: 'http://www.celeg.be/#resume'
 author: []
-datePublished: '2015-12-23T10:37:07.848Z'
+datePublished: '2015-12-23T10:38:44.935Z'
 publisher:
-  domain: www.celeg.be
   name: celeg.be
-dateModified: '2015-12-23T10:35:33.946Z'
+  domain: www.celeg.be
+  url: null
+  favicon: null
+dateModified: '2015-12-23T10:38:36.239Z'
 title: ''
 sourcePath: _posts/2015-12-23-2003-2006-agfa-developer-team-leader-within-the-radiolo.md
 published: true
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
-url: 2003-2006-agfa-developer-team-leader-within-the-radiolo/index.html
+inLanguage: null
+starred: true
+keywords: []
+authors: []
 _context: 'http://schema.org'
 _type: Article
 
