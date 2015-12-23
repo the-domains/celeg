@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: An overview of my experience
-datePublished: '2015-12-23T10:55:03.568Z'
-dateModified: '2015-12-23T10:54:49.711Z'
+datePublished: '2015-12-23T10:59:22.416Z'
+dateModified: '2015-12-23T10:57:55.836Z'
 author: []
 title: Experience
 sourcePath: _posts/2015-12-23-employment-may-2014-present-tagtagcity-agile-pm-cto-tag.md
@@ -35,9 +35,9 @@ TagTagCity - Agile PM - CTO TagTagCity is a small startup that has 2 products: a
 MAY 2013 - APRIL 2014
 
 ### RealDolmen
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3d075f27-7b33-49cb-b3f4-d5a85116a7ef.png)
 
 #### Unit Manager / Scrum coach
 
 In May 2013 I joined RealDolmen as a unit manager of the Microsoft Competence Center. In that role I was responsible for a group of 80 Microsoft consultants. My main activities were competence development, recruitment, resource planning, budgeting and forecasting, (pre)sales.  
 Next to that I was active as a Scrum coach and trainer. I continued to work for Barco to help them to roll out Scrum in a large division spread over different countries.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3d075f27-7b33-49cb-b3f4-d5a85116a7ef.png)
